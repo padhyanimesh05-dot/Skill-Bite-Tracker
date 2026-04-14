@@ -1,2 +1,2 @@
 # Skill-Bite-Tracker
-Our motive is to make sure that anyone visiting our website where they can minimum provide 10 minutes to upskill themselves, in various fields. 
+Skill Bite Tracker is a gamified web platform that helps students build skills through daily 10-minute practice across coding, aptitude, reasoning, English, and more.
